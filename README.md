@@ -1,7 +1,5 @@
 # megnu/ArcoLinux ArchWay bspwm Desktop
 
-![megnu bspwm](https://i.imgur.com/vBnwV5g.jpg)
-
 megnu custom bspwm desktop  for vanilla arch. credits to Eric Dubois, Nick Petrov & Kevin Yanez aka (INTRCPTR).
 
 These scripts will install a bspwm desktop with all my favorite software
