@@ -1,4 +1,4 @@
-# megnu/ArcoLinux Archway bspwm Desktop
+# megnu/ArcoLinux ArchWay bspwm Desktop
 
 megnu custom version for vanilla arch. credits to Nick Petrov & Kevin Yanez aka (INTRCPTR).
 
