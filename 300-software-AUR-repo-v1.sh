@@ -3,14 +3,9 @@ set -e
 echo "Put a hashtag in front of set -e to keep installing even if there is an error"
 sleep 5
 ##################################################################################################################
-# Author	:	Erik Dubois
-# Website	:	https://www.erikdubois.be
-# Website	:	https://www.arcolinux.info
-# Website	:	https://www.arcolinux.com
-# Website	:	https://www.arcolinuxd.com
-# Website	:	https://www.arcolinuxb.com
-# Website	:	https://www.arcolinuxiso.com
-# Website	:	https://www.arcolinuxforum.com
+# Author	:	megnu, Erik Dubois
+# Website	:	https://megnu.com
+# Website   :   https://arcolinuxd.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -32,7 +27,6 @@ sh AUR/install-mintstick-git-v*.sh
 
 echo "Installing category Development"
 
-sh AUR/install-sublime-text-v*.sh
 
 echo "Installing category Education"
 
@@ -48,10 +42,7 @@ echo "Installing category Internet"
 
 echo "Installing category Multimedia"
 
-sh AUR/install-gradio-v*.sh
 sh AUR/install-peek-v*.sh
-sh AUR/install-radiotray-v*.sh
-
 
 echo "Installing category Office"
 
@@ -66,19 +57,18 @@ sh AUR/install-font-manager-git-v*.sh
 sh AUR/install-inxi-v*.sh
 sh AUR/install-neofetch-v*.sh
 sh AUR/install-numix-circle-icon-theme-git-v*.sh
-sh AUR/install-oxy-neon-v*.sh
-sh AUR/install-pamac-aur-v*.sh
+#sh AUR/install-pamac-aur-v*.sh
 #sh AUR/install-paper-icon-theme-git-v*.sh
 #sh AUR/install-papirus-icon-theme-git-v*.sh
-sh AUR/install-sardi-icons-v*.sh
-sh AUR/install-sardi-extra-icons-v*.sh
+#sh AUR/install-sardi-icons-v*.sh
+#sh AUR/install-sardi-extra-icons-v*.sh
 sh AUR/install-screenkey-git-v*.sh
-sh AUR/install-surfn-icons-git-v*.sh
-sh AUR/install-the-platinum-searcher-bin-v*.sh
+#sh AUR/install-surfn-icons-git-v*.sh
+#sh AUR/install-the-platinum-searcher-bin-v*.sh
 sh AUR/install-ttf-font-awesome-v*.sh
-sh AUR/install-ttf-mac-fonts-v*.sh
-sh AUR/install-virtualbox-for-linux-v*.sh
-sh AUR/install-xcursor-breeze-v*.sh
+#sh AUR/install-ttf-mac-fonts-v*.sh
+#sh AUR/install-virtualbox-for-linux-v*.sh
+#sh AUR/install-xcursor-breeze-v*.sh
 
 # these come always last
 

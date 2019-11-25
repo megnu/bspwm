@@ -1,14 +1,9 @@
 #!/bin/bash
 set -e
 ##################################################################################################################
-# Author	:	Erik Dubois
-# Website	:	https://www.erikdubois.be
-# Website	:	https://www.arcolinux.info
-# Website	:	https://www.arcolinux.com
-# Website	:	https://www.arcolinuxd.com
-# Website	:	https://www.arcolinuxb.com
-# Website	:	https://www.arcolinuxiso.com
-# Website	:	https://www.arcolinuxforum.com
+# Author	:	megnu, Erik Dubois
+# Website	:	https://megnu.com
+# Website   :   https://arcolinuxd.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -25,9 +20,11 @@ sh AUR-DS/install-sutils-git-v*.sh
 
 sh AUR-DS/install-xtitle-v*.sh
 
-sh AUR-DS/install-python-pywal-v*.sh
+#sh AUR-DS/install-python-pywal-v*.sh
 
 sh AUR-DS/install-polybar-v*.sh
+
+sh AUR-DS/install-urxvt-scrolling-v*.sh
 
 sh AUR-DS/install-urxvt-resize-font-git-v*.sh
 

@@ -1,14 +1,9 @@
 #!/bin/bash
 set -e
 ##################################################################################################################
-# Author	:	Erik Dubois
-# Website	:	https://www.erikdubois.be
-# Website	:	https://www.arcolinux.info
-# Website	:	https://www.arcolinux.com
-# Website	:	https://www.arcolinuxd.com
-# Website	:	https://www.arcolinuxb.com
-# Website	:	https://www.arcolinuxiso.com
-# Website	:	https://www.arcolinuxforum.com
+# Author	:	megnu, Erik Dubois
+# Website	:	https://megnu.com
+# Website   :   https://arcolinuxd.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -24,7 +19,7 @@ sudo pacman -Syyu --noconfirm
 #installing displaymanager or login manager
 sudo pacman -S --noconfirm --needed lightdm
 sudo pacman -S --noconfirm --needed arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
-sudo pacman -S --noconfirm --needed arcolinux-wallpapers-git 
+#sudo pacman -S --noconfirm --needed arcolinux-wallpapers-git 
 #installing desktop environment
 sudo pacman -S bspwm sxhkd --noconfirm --needed
 #enabling displaymanager or login manager

@@ -1,14 +1,9 @@
 #!/bin/bash
 set -e
 ##################################################################################################################
-# Author	:	Erik Dubois
-# Website	:	https://www.erikdubois.be
-# Website	:	https://www.arcolinux.info
-# Website	:	https://www.arcolinux.com
-# Website	:	https://www.arcolinuxd.com
-# Website	:	https://www.arcolinuxb.com
-# Website	:	https://www.arcolinuxiso.com
-# Website	:	https://www.arcolinuxforum.com
+# Author	:	megnu, Erik Dubois
+# Website	:	https://megnu.com
+# Website   :   https://arcolinuxd.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -52,19 +47,19 @@ sudo pacman -S gtop --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S lxappearance-gtk3 --noconfirm --needed
 sudo pacman -S lxrandr --noconfirm --needed
-sudo pacman -S nitrogen --noconfirm --needed
+#sudo pacman -S nitrogen --noconfirm --needed
 sudo pacman -S playerctl --noconfirm --needed
-sudo pacman -S rofi --noconfirm --needed
-sudo pacman -S thunar --noconfirm --needed
+#sudo pacman -S rofi --noconfirm --needed
+#sudo pacman -S thunar --noconfirm --needed
 sudo pacman -S w3m  --noconfirm --needed
 sudo pacman -S xdo  --noconfirm --needed
 sudo pacman -S xdotool  --noconfirm --needed
 sudo pacman -S xfce4-appfinder --noconfirm --needed
 sudo pacman -S xfce4-power-manager --noconfirm --needed
-sudo pacman -S xfce4-screenshooter --noconfirm --needed
-sudo pacman -S xfce4-settings --noconfirm --needed
-sudo pacman -S xfce4-taskmanager --noconfirm --needed
-sudo pacman -S xfce4-notifyd --noconfirm --needed
+#sudo pacman -S xfce4-screenshooter --noconfirm --needed
+#sudo pacman -S xfce4-settings --noconfirm --needed
+#sudo pacman -S xfce4-taskmanager --noconfirm --needed
+#sudo pacman -S xfce4-notifyd --noconfirm --needed
 
 echo "################################################################"
 echo "####    Software from Arch Linux Repository installed     ######"
