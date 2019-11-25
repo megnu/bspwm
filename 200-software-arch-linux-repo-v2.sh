@@ -25,7 +25,6 @@ sudo pacman -S --noconfirm --needed gcolor3
 sudo pacman -S --noconfirm --needed gucharmap
 sudo pacman -S --noconfirm --needed keepassxc
 
-
 echo "Installing category Development"
 
 sudo pacman -S --noconfirm --needed emacs-nox
@@ -36,6 +35,7 @@ sudo pacman -S --noconfirm --needed texlive-core
 sudo pacman -S --noconfirm --needed texinfo
 sudo pacman -S --noconfirm --needed texlive-formatsextra
 sudo pacman -S --noconfirm --needed texlive-latexextra
+sudo pacman -S --noconfirm --needed nmap
 
 echo "Installing category Education"
 
