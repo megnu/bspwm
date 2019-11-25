@@ -14,7 +14,9 @@ Download at https://www.archlinux.org/download/
 
 Read on the Arch Linux wiki https://wiki.archlinux.org/index.php/Installation_guide
 
-Once you have the base system installed and configured you can start on these scripts.
+Once you have the base system installed and configured you can run these scripts.
+
+Start in the ArchWay directory and then onto the scripts here.
 
 # Run the scripts
 
