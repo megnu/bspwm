@@ -5,7 +5,7 @@ sleep 5
 ##################################################################################################################
 # Author	:	megnu, Erik Dubois
 # Website	:	https://megnu.com
-# Website   :   https://arcolinuxd.com
+# Website	:	https://arcolinuxd.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
