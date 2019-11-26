@@ -122,7 +122,7 @@ sudo pacman -S --noconfirm --needed lm_sensors
 sudo pacman -S --noconfirm --needed lsb-release
 sudo pacman -S --noconfirm --needed mlocate
 sudo pacman -S --noconfirm --needed net-tools
-#sudo pacman -S --noconfirm --needed notify-osd
+sudo pacman -S --noconfirm --needed gxkb
 sudo pacman -S --noconfirm --needed ttf-ibm-plex
 sudo pacman -S --noconfirm --needed numlockx
 sudo pacman -S --noconfirm --needed polkit-gnome
