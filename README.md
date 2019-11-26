@@ -16,15 +16,17 @@ Read on the Arch Linux wiki https://wiki.archlinux.org/index.php/Installation_gu
 
 Once you have the base system installed and configured you can run these scripts.
 
-Start in the ArchWay directory and then onto the scripts here.
-
 # 3. Run the scripts
 
-Change the scripts to fit your use case. Uncomment/comment out lines with software that you do want/don't want installed.
+Log in as a user with sudo privileges.
 
-Once you have checked all the scripts, you can run them.
+Clone this repo or download the zip and extract it. Enter.
 
-Then you can get my config files to add to your home directory: https://github.com/megnu/arch
+Open the scripts, uncomment/comment out lines with software you do or do not want installed.
+
+Examine the scripts and run (Arch Linux starts in the ArchWay folder).
+
+Next you can add the config files for this setup to your home directory: https://github.com/megnu/arch
 
 # Credits
 
