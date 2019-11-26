@@ -1,4 +1,4 @@
-# megnu/ArcoLinux ArchWay bspwm Desktop
+# megnu/ArcoLinux ArchWay bspwm scripts
 
 These are my customized versions of the ArcoLinuxD bspwm scripts.
 
