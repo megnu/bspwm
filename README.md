@@ -20,7 +20,7 @@ Start in the ArchWay directory and then onto the scripts here.
 
 # 3. Run the scripts
 
-Change the scripts to fit your use case. Uncomment/comment different software that you don't want/do want.
+Change the scripts to fit your use case. Uncomment/comment out lines with software that you do want/don't want installed.
 
 Once you have checked all the scripts, you can run them.
 
