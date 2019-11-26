@@ -1,10 +1,8 @@
 # megnu/ArcoLinux ArchWay bspwm Desktop
 
-megnu custom bspwm desktop  for vanilla arch. credits to Eric Dubois, Nick Petrov & Kevin Yanez aka (INTRCPTR).
+megnu custom bspwm desktop for "vanilla" Arch Linux.
 
-These scripts will install a bspwm desktop with all my favorite software
-
-Forked from https://github.com/arcolinuxd/arco-bspwm
+These scripts will install a bspwm desktop with all my favorite software.
 
 # Start by installing the latest Arch Linux installation
 
@@ -20,8 +18,22 @@ Start in the ArchWay directory and then onto the scripts here.
 
 # Run the scripts
 
-Change the scripts to fit your use case. Uncomment/comment different software you need.
+Change the scripts to fit your use case. Uncomment/comment different software that you don't want/do want.
 
 Once you have checked all the scripts, you can run them.
 
 Then you can get my config files to add to your home directory: https://github.com/megnu/arch
+
+# Credits
+
+Credits to Erik Dubois, Nick Petrov & Kevin Yanez aka (INTRCPTR).
+
+Forked from https://github.com/arcolinuxd/arco-bspwm
+
+ArcoLinux Information : https://arcolinux.info
+
+Tutorials about ArcoLinux iso (Xfce, Openbox and i3) : https://arcolinux.com
+
+Tutorials about ArcoLinuxD iso (any desktop) : https://arcolinuxd.com
+
+Forum : https://arcolinuxforum.com
