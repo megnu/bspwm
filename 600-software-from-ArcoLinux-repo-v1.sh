@@ -98,9 +98,10 @@ sudo pacman -S arcolinux-bspwm-git --noconfirm --needed
 #sudo pacman -S arcolinux-plasma-git --noconfirm --needed
 #sudo pacman -S arcolinux-plasma-nemesis-git --noconfirm --needed
 #sudo pacman -S arcolinux-qtile-git --noconfirm --needed
-sudo pacman -S arcolinux-xfce-git --noconfirm --needed
+#sudo pacman -S arcolinux-xfce-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-polybar-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-xmobar-git --noconfirm --needed
+
 
 echo "################################################################"
 echo "####                ARCOLINUX CONFIG PACKAGES               ####"
