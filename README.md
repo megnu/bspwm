@@ -34,7 +34,7 @@ Forked from : https://github.com/arcolinuxd/arco-bspwm
 
 These scripts also work with other Arch-based distros.
 
-If you want a simple way to install and configure Arch Linux I suggest you check out ArcoLinuxD.
+If you want a simple way to install and configure your system I suggest you check out ArcoLinuxD.
 
 ArcoLinux Information : https://arcolinux.info
 
