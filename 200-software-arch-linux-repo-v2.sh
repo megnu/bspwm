@@ -151,7 +151,7 @@ sudo pacman -S --noconfirm --needed xdg-user-dirs
 sudo pacman -S --noconfirm --needed zenity
 sudo pacman -S --noconfirm --needed exfat-utils
 sudo pacman -S --noconfirm --needed ifuse
-
+sudo pacman -S --noconfirm --needed yay
 
 ###############################################################################################
 
