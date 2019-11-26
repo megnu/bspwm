@@ -1,4 +1,2 @@
 [Icon Theme]
-Name=Silver-c
-Example=left_ptr
-
+Inherits=Silver-c
