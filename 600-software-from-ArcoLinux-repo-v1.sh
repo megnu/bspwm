@@ -15,7 +15,7 @@ echo "####     Packages coming from ArcoLinux Repository          ####"
 echo "################################################################"
 echo
 
-sudo pacman -R arcolinux-config-xfce-git --noconfirm
+#sudo pacman -R arcolinux-config-xfce-git --noconfirm
 
 echo "################################################################"
 echo "####                ARCOLINUX FOLDER                        ####"
