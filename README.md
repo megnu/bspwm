@@ -18,7 +18,7 @@ Once you have the base system installed and configured you can run these scripts
 
 # 3. Run the scripts
 
-Log in as a user with sudo privileges.
+Log in as a non root-user with sudo privileges.
 
 Clone this repo or download the zip and extract it. Enter.
 
