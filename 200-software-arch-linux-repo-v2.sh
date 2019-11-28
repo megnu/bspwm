@@ -83,7 +83,7 @@ echo "Installing category Office"
 
 sudo pacman -S --noconfirm --needed evince
 sudo pacman -S --noconfirm --needed thunderbird
-#sudo pacman -S --noconfirm --needed geary
+sudo pacman -S --noconfirm --needed gnumeric
 sudo pacman -S --noconfirm --needed libreoffice-fresh
 sudo pacman -S --noconfirm --needed libreoffice-fresh-th
 
@@ -125,6 +125,8 @@ sudo pacman -S --noconfirm --needed net-tools
 sudo pacman -S --noconfirm --needed gxkb
 sudo pacman -S --noconfirm --needed ttf-ibm-plex
 sudo pacman -S --noconfirm --needed numlockx
+sudo pacman -S --noconfirm --needed nemo
+sudo pacman -S --noconfirm --needed bash-completion
 sudo pacman -S --noconfirm --needed polkit-gnome
 sudo pacman -S --noconfirm --needed qt5ct
 sudo pacman -S --noconfirm --needed sane
@@ -146,7 +148,7 @@ sudo pacman -S --noconfirm --needed wmctrl
 sudo pacman -S --noconfirm --needed unclutter
 sudo pacman -S --noconfirm --needed slim
 sudo pacman -S --noconfirm --needed archlinux-themes-slim
-sudo pacman -S --noconfirm --needed urxvt-perls
+#sudo pacman -S --noconfirm --needed urxvt-perls
 sudo pacman -S --noconfirm --needed xdg-user-dirs
 sudo pacman -S --noconfirm --needed zenity
 sudo pacman -S --noconfirm --needed exfat-utils

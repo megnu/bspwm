@@ -16,6 +16,9 @@ echo "and run the alias - mirror in the terminal"
 echo "#################################################"
 
 sudo pacman -Syyu --noconfirm
+#installing xorg
+sudo pacman -S --noconfirm --needed xorg
+sudo pacman -S --noconfirm --needed xorg-server
 #installing displaymanager or login manager
 sudo pacman -S --noconfirm --needed lightdm
 sudo pacman -S --noconfirm --needed arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings

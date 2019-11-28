@@ -24,8 +24,6 @@ sh AUR-DS/install-xtitle-v*.sh
 
 sh AUR-DS/install-polybar-v*.sh
 
-sh AUR-DS/install-urxvt-scrolling-v*.sh
-
 sh AUR-DS/install-urxvt-resize-font-git-v*.sh
 
 echo "################################################################"

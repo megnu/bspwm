@@ -32,6 +32,14 @@ sudo pacman -S --noconfirm --needed gvfs-smb
 sudo sed -i 's/files mymachines myhostname/files mymachines/g' /etc/nsswitch.conf
 #last part
 sudo sed -i 's/\[\!UNAVAIL=return\] dns/\[\!UNAVAIL=return\] mdns dns wins myhostname/g' /etc/nsswitch.conf
+
+#NetworkManager and OpenVPN
+sudo pacman -S --noconfirm --needed networkmanager
+sudo pacman -S --noconfirm --needed network-manager-applet
+sudo pacman -S --noconfirm --needed networkmanager-dispatcher-ntpd
+sudo pacman -S --noconfirm --needed networkmanager-openvpn
+sudo systemctl enable NetworkManager
+
 echo "################################################################"
 echo "####       network discovery  software installed        ########"
 echo "################################################################"

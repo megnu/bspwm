@@ -57,6 +57,7 @@ sh AUR/install-font-manager-git-v*.sh
 sh AUR/install-inxi-v*.sh
 sh AUR/install-neofetch-v*.sh
 sh AUR/install-numix-circle-icon-theme-git-v*.sh
+sh AUR/install-urxvt-scrolling-v*.sh
 #sh AUR/install-pamac-aur-v*.sh
 #sh AUR/install-paper-icon-theme-git-v*.sh
 #sh AUR/install-papirus-icon-theme-git-v*.sh
@@ -65,7 +66,7 @@ sh AUR/install-numix-circle-icon-theme-git-v*.sh
 sh AUR/install-screenkey-git-v*.sh
 #sh AUR/install-surfn-icons-git-v*.sh
 #sh AUR/install-the-platinum-searcher-bin-v*.sh
-sh AUR/install-ttf-font-awesome-v*.sh
+#sh AUR/install-ttf-font-awesome-v*.sh
 #sh AUR/install-ttf-mac-fonts-v*.sh
 #sh AUR/install-virtualbox-for-linux-v*.sh
 #sh AUR/install-xcursor-breeze-v*.sh
