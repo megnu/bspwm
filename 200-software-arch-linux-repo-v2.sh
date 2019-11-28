@@ -118,6 +118,7 @@ sudo pacman -S --noconfirm --needed hddtemp
 sudo pacman -S --noconfirm --needed htop
 #sudo pacman -S --noconfirm --needed kvantum-qt5
 #sudo pacman -S --noconfirm --needed kvantum-theme-arc
+sudo pacman -S --noconfirm --needed leafpad
 sudo pacman -S --noconfirm --needed lm_sensors
 sudo pacman -S --noconfirm --needed lsb-release
 sudo pacman -S --noconfirm --needed mlocate
@@ -129,6 +130,7 @@ sudo pacman -S --noconfirm --needed nemo
 sudo pacman -S --noconfirm --needed bash-completion
 sudo pacman -S --noconfirm --needed polkit-gnome
 sudo pacman -S --noconfirm --needed qt5ct
+sudo pacman -S --noconfirm --needed qt5-styleplugins
 sudo pacman -S --noconfirm --needed sane
 sudo pacman -S --noconfirm --needed screenfetch
 sudo pacman -S --noconfirm --needed scrot

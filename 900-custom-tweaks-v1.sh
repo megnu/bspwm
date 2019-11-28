@@ -24,6 +24,9 @@ sudo cp -r Personal/lightdm-gtk-greeter.conf /etc/lightdm/
 echo "Installing emacs dired app"
 sudo cp -r Personal/emacs-dired.desktop /usr/share/applications/
 
+echo "Fix for qt5ct"
+sudo sed -i -e '$aQT_QPA_PLATFORMTHEME=qt5ct' /etc/environment
+
 echo "################################################################"
 echo "####     DONE. TO SEE THE EFFECT YOU MUST LOG OFF         ######"
 echo "################################################################"
