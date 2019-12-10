@@ -160,7 +160,7 @@ sudo pacman -S --noconfirm --needed yay
 ###############################################################################################
 
 # installation of zippers and unzippers
-sudo pacman -S --noconfirm --needed unace unrar zip unzip sharutils  uudeview  arj cabextract file-roller
+sudo pacman -S --noconfirm --needed unrar zip unzip sharutils  uudeview  arj cabextract file-roller
 
 ###############################################################################################
 
