@@ -66,7 +66,7 @@ sh AUR/install-urxvt-scrolling-v*.sh
 sh AUR/install-screenkey-git-v*.sh
 #sh AUR/install-surfn-icons-git-v*.sh
 #sh AUR/install-the-platinum-searcher-bin-v*.sh
-sh AUR/install-ttf-ibm-plex-v1.sh
+#sh AUR/install-ttf-ibm-plex-v1.sh
 #sh AUR/install-ttf-font-awesome-v*.sh
 #sh AUR/install-ttf-mac-fonts-v*.sh
 #sh AUR/install-virtualbox-for-linux-v*.sh
