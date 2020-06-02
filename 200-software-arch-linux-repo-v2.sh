@@ -59,7 +59,7 @@ sudo pacman -S --noconfirm --needed inkscape
 
 echo "Installing category Internet"
 
-sudo pacman -S --noconfirm --needed chromium
+#sudo pacman -S --noconfirm --needed chromium
 sudo pacman -S --noconfirm --needed etherape
 sudo pacman -S --noconfirm --needed firefox
 sudo pacman -S --noconfirm --needed hexchat
@@ -153,8 +153,8 @@ sudo pacman -S --noconfirm --needed archlinux-themes-slim
 sudo pacman -S --noconfirm --needed xdg-user-dirs
 sudo pacman -S --noconfirm --needed zenity
 sudo pacman -S --noconfirm --needed exfat-utils
-sudo pacman -S --noconfirm --needed ifuse
-sudo pacman -S --noconfirm --needed yay
+#sudo pacman -S --noconfirm --needed ifuse
+#sudo pacman -S --noconfirm --needed yay
 
 ###############################################################################################
 

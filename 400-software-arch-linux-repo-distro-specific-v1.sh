@@ -50,13 +50,14 @@ sudo pacman -S lxrandr --noconfirm --needed
 #sudo pacman -S nitrogen --noconfirm --needed
 sudo pacman -S playerctl --noconfirm --needed
 #sudo pacman -S rofi --noconfirm --needed
-sudo pacman -S urxvt-perls
+sudo pacman -S urxvt-perls --noconfirm --needed
 #sudo pacman -S thunar --noconfirm --needed
 sudo pacman -S w3m  --noconfirm --needed
 sudo pacman -S xdo  --noconfirm --needed
 sudo pacman -S xdotool  --noconfirm --needed
 sudo pacman -S xfce4-appfinder --noconfirm --needed
 sudo pacman -S xfce4-power-manager --noconfirm --needed
+sudo pacman -s xfce4-terminal --noconfirm --needed
 #sudo pacman -S xfce4-screenshooter --noconfirm --needed
 #sudo pacman -S xfce4-settings --noconfirm --needed
 #sudo pacman -S xfce4-taskmanager --noconfirm --needed
