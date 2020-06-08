@@ -14,7 +14,7 @@ set -e
 # Core, Extra, Community, Multilib repositories
 echo "Installing category Accessories"
 
-sudo pacman -S --noconfirm --needed catfish
+#sudo pacman -S --noconfirm --needed catfish
 sudo pacman -S --noconfirm --needed cronie
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed gnome-screenshot
@@ -154,7 +154,6 @@ sudo pacman -S --noconfirm --needed xdg-user-dirs
 sudo pacman -S --noconfirm --needed zenity
 sudo pacman -S --noconfirm --needed exfat-utils
 #sudo pacman -S --noconfirm --needed ifuse
-#sudo pacman -S --noconfirm --needed yay
 
 ###############################################################################################
 
